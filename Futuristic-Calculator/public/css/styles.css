@@ -1,5 +1,10 @@
 footer {
   background-color: black;
+  color: white;
+  text-align: center;
+  padding-top: 4%;
+  padding-bottom: 4%;
+  font-size: x-large;
 }
 
 /*# sourceMappingURL=styles.css.map */
